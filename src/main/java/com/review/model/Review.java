@@ -19,7 +19,7 @@ public class Review {
         this.rating = rating;
     }
 
-    // Getters and setters
+    
     public String getReviewId() { return reviewId; }
     public void setReviewId(String reviewId) { this.reviewId = reviewId; }
 
