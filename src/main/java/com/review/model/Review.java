@@ -3,8 +3,8 @@ package com.review.model;
 public class Review {
     private String reviewId;
     private String userEmail;
-    private String targetType; // "restaurant" or "delivery"
-    private String targetId;   // restaurantId or deliveryPersonId
+    private String targetType; 
+    private String targetId;   
     private String comment;
     private int rating;
 
